@@ -1,0 +1,5 @@
+C:\Users\Асанали\source\repos\Home_Work_10\Home_Work_10_Task_2\obj\Debug\Home_Work_10_Task_2.csproj.CoreCompileInputs.cache
+C:\Users\Асанали\source\repos\Home_Work_10\Home_Work_10_Task_2\bin\Debug\Home_Work_10_Task_2.exe
+C:\Users\Асанали\source\repos\Home_Work_10\Home_Work_10_Task_2\bin\Debug\Home_Work_10_Task_2.pdb
+C:\Users\Асанали\source\repos\Home_Work_10\Home_Work_10_Task_2\obj\Debug\Home_Work_10_Task_2.exe
+C:\Users\Асанали\source\repos\Home_Work_10\Home_Work_10_Task_2\obj\Debug\Home_Work_10_Task_2.pdb
